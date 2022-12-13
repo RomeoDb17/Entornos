@@ -47,7 +47,7 @@ Consulta la página https://www.genbetadev.com/desarrollo-web/10-packages-de-sub
 
 **4).** Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
 
-![image-20221213095452672](C:\Users\Romeo\Desktop\Entornos\img\image-20221213095452672.png)
+![image-20221213095452672](img/image-20221213095452672.png)
 
 **5).** Haz una comparativa de la funcionalidad ofrecida por Sublime text y la ofrecida por Visual Studio Code referente a los  siguientes  aspectos:
 
@@ -87,7 +87,7 @@ $ sudo apt-get install geany
 
 **7).** Instala el entorno integrado Netbeans. Saca una captura de pantalla una vez instalado y funcionando. 
 
-![image-20221213100452239](C:\Users\Romeo\Desktop\Entornos\img\image-20221213100452239.png)
+![image-20221213100452239](img/image-20221213100452239.png)
 
 **8).** Instala el entorno integrado Eclipse. Saca una captura de pantalla una vez instalado y funcionando. 
 
