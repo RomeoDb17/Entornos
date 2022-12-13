@@ -91,11 +91,11 @@ $ sudo apt-get install geany
 
 **8).** Instala el entorno integrado Eclipse. Saca una captura de pantalla una vez instalado y funcionando. 
 
-![image-20221213095902629](C:\Users\Romeo\Desktop\Entornos\img\image-20221213095902629.png)
+![image-20221213095902629](img/image-20221213095902629.png)
 
 **9).** Crea un proyecto en Java en Netbeans. Realiza su compilación y ejecución.
 
-![image-20221213100407459](C:\Users\Romeo\Desktop\Entornos\img\image-20221213100407459.png)
+![image-20221213100407459](img/image-20221213100407459.png)
 
 **10).** ¿Qué sistema de construcción utiliza Netbeans  para generar los archivos "ejecutables"? Mira en el directorio raíz del  proyecto y examina qué *buildfile* utiliza de los vistos en el tema.
 
