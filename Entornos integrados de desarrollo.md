@@ -2,7 +2,7 @@
 
 **1).** Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
 
-![image-20221213094949759](img\image-20221213094949759.png)
+![image-20221213094949759](img/image-20221213094949759.png)
 
 **2).** Personaliza Sublime text instalando los complementos más importantes. 
 
